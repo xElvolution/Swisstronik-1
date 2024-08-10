@@ -1,5 +1,6 @@
 node_modules
 .env
+simple-contract.sh
 
 # Hardhat files
 /cache
